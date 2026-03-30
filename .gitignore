@@ -1,4 +1,6 @@
 # Ignore the virtual environment
 .venv/
 
-dataset_validation_report.json/
+HEPASS_algorithm_dataset/
+
+/dataset_validation_report.json

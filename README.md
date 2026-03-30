@@ -4,7 +4,7 @@
 This project develops a deep learning framework that combines Convolutional Neural Networks (CNNs) with ConvFormer architectures to improve accuracy in detecting liver steatosis from histological images. The approach leverages both local feature extraction and transformer-based global context to enhance medical image analysis.
 
 ## Data Source
-- [Mendeley Dataset](https://data.mendeley.com/datasets/4mcc9rg4k5/1)
+- HEPASS algorithm dataset - [Mendeley Dataset](https://data.mendeley.com/datasets/4mcc9rg4k5/1)
 
 ## Process
 - Downloaded dataset from Mendeley.
