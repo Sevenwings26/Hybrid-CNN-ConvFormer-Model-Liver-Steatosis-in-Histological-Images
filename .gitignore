@@ -1,0 +1,4 @@
+# Ignore the virtual environment
+.venv/
+
+dataset_validation_report.json/

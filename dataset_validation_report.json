@@ -1,0 +1,1452 @@
+{
+    "valid": [
+        {
+            "file": "1001001_16.png",
+            "fat_count": 2,
+            "avg_fat_area": 349.25
+        },
+        {
+            "file": "1001015_87.png",
+            "fat_count": 6,
+            "avg_fat_area": 5526.666666666667
+        },
+        {
+            "file": "1001020_78.png",
+            "fat_count": 37,
+            "avg_fat_area": 492.77027027027026
+        },
+        {
+            "file": "1001051_19.png",
+            "fat_count": 3,
+            "avg_fat_area": 192.0
+        },
+        {
+            "file": "1001051_60.png",
+            "fat_count": 28,
+            "avg_fat_area": 293.0357142857143
+        },
+        {
+            "file": "1001052_71.png",
+            "fat_count": 11,
+            "avg_fat_area": 6808.681818181818
+        },
+        {
+            "file": "1001058_33.png",
+            "fat_count": 9,
+            "avg_fat_area": 95.66666666666667
+        },
+        {
+            "file": "1001132_92.png",
+            "fat_count": 2,
+            "avg_fat_area": 69.75
+        },
+        {
+            "file": "1001136_29.png",
+            "fat_count": 31,
+            "avg_fat_area": 304.93548387096774
+        },
+        {
+            "file": "1001140_41.png",
+            "fat_count": 32,
+            "avg_fat_area": 267.9375
+        },
+        {
+            "file": "1001149_97.png",
+            "fat_count": 27,
+            "avg_fat_area": 1171.388888888889
+        },
+        {
+            "file": "1001193_22.png",
+            "fat_count": 40,
+            "avg_fat_area": 535.275
+        },
+        {
+            "file": "1001207_80.png",
+            "fat_count": 5,
+            "avg_fat_area": 630.5
+        },
+        {
+            "file": "1001209_73.png",
+            "fat_count": 1,
+            "avg_fat_area": 65.5
+        },
+        {
+            "file": "1001243_39.png",
+            "fat_count": 2,
+            "avg_fat_area": 65.5
+        },
+        {
+            "file": "1001248_14.png",
+            "fat_count": 5,
+            "avg_fat_area": 105.7
+        },
+        {
+            "file": "1001276_17.png",
+            "fat_count": 14,
+            "avg_fat_area": 5003.035714285715
+        },
+        {
+            "file": "1001309_89.png",
+            "fat_count": 45,
+            "avg_fat_area": 554.9111111111112
+        },
+        {
+            "file": "1001314_24.png",
+            "fat_count": 18,
+            "avg_fat_area": 160.22222222222223
+        },
+        {
+            "file": "1001340_72.png",
+            "fat_count": 80,
+            "avg_fat_area": 600.01875
+        },
+        {
+            "file": "1001361_74.png",
+            "fat_count": 23,
+            "avg_fat_area": 2178.478260869565
+        },
+        {
+            "file": "1001373_79.png",
+            "fat_count": 47,
+            "avg_fat_area": 839.7234042553191
+        },
+        {
+            "file": "1001386_84.png",
+            "fat_count": 3,
+            "avg_fat_area": 239.83333333333334
+        },
+        {
+            "file": "1001393_65.png",
+            "fat_count": 14,
+            "avg_fat_area": 507.7857142857143
+        },
+        {
+            "file": "1001417_47.png",
+            "fat_count": 23,
+            "avg_fat_area": 1502.195652173913
+        },
+        {
+            "file": "1001417_79.png",
+            "fat_count": 3,
+            "avg_fat_area": 59.0
+        },
+        {
+            "file": "1001450_74.png",
+            "fat_count": 4,
+            "avg_fat_area": 166.125
+        },
+        {
+            "file": "1001451_65.png",
+            "fat_count": 7,
+            "avg_fat_area": 3446.5
+        },
+        {
+            "file": "1001459_2.png",
+            "fat_count": 34,
+            "avg_fat_area": 443.5
+        },
+        {
+            "file": "1001473_41.png",
+            "fat_count": 11,
+            "avg_fat_area": 1192.3181818181818
+        },
+        {
+            "file": "1001481_57.png",
+            "fat_count": 10,
+            "avg_fat_area": 101.85
+        },
+        {
+            "file": "1001492_58.png",
+            "fat_count": 13,
+            "avg_fat_area": 96.88461538461539
+        },
+        {
+            "file": "1001501_37.png",
+            "fat_count": 15,
+            "avg_fat_area": 97.5
+        },
+        {
+            "file": "1001502_75.png",
+            "fat_count": 11,
+            "avg_fat_area": 101.54545454545455
+        },
+        {
+            "file": "1001510_50.png",
+            "fat_count": 70,
+            "avg_fat_area": 209.81428571428572
+        },
+        {
+            "file": "1001516_94.png",
+            "fat_count": 18,
+            "avg_fat_area": 2199.3888888888887
+        },
+        {
+            "file": "1001528_62.png",
+            "fat_count": 11,
+            "avg_fat_area": 308.27272727272725
+        },
+        {
+            "file": "1001534_67.png",
+            "fat_count": 19,
+            "avg_fat_area": 114.3157894736842
+        },
+        {
+            "file": "1001539_45.png",
+            "fat_count": 31,
+            "avg_fat_area": 313.11290322580646
+        },
+        {
+            "file": "1001542_89.png",
+            "fat_count": 17,
+            "avg_fat_area": 3284.3823529411766
+        },
+        {
+            "file": "1001564_73.png",
+            "fat_count": 3,
+            "avg_fat_area": 14284.666666666666
+        },
+        {
+            "file": "1001582_49.png",
+            "fat_count": 11,
+            "avg_fat_area": 1867.4545454545455
+        },
+        {
+            "file": "1001596_4.png",
+            "fat_count": 5,
+            "avg_fat_area": 2653.0
+        },
+        {
+            "file": "1001599_69.png",
+            "fat_count": 18,
+            "avg_fat_area": 123.05555555555556
+        },
+        {
+            "file": "1001600_95.png",
+            "fat_count": 42,
+            "avg_fat_area": 548.8690476190476
+        },
+        {
+            "file": "1001605_16.png",
+            "fat_count": 15,
+            "avg_fat_area": 301.26666666666665
+        },
+        {
+            "file": "1001611_41.png",
+            "fat_count": 19,
+            "avg_fat_area": 409.6578947368421
+        },
+        {
+            "file": "1001612_53.png",
+            "fat_count": 23,
+            "avg_fat_area": 2653.5
+        },
+        {
+            "file": "1001612_63.png",
+            "fat_count": 25,
+            "avg_fat_area": 337.0
+        },
+        {
+            "file": "1001621_83.png",
+            "fat_count": 5,
+            "avg_fat_area": 12473.9
+        },
+        {
+            "file": "1001631_60.png",
+            "fat_count": 5,
+            "avg_fat_area": 156.0
+        },
+        {
+            "file": "1001662_4.png",
+            "fat_count": 43,
+            "avg_fat_area": 403.86046511627904
+        },
+        {
+            "file": "1001665_24.png",
+            "fat_count": 18,
+            "avg_fat_area": 3310.3333333333335
+        },
+        {
+            "file": "1001667_44.png",
+            "fat_count": 14,
+            "avg_fat_area": 132.96428571428572
+        },
+        {
+            "file": "1001677_43.png",
+            "fat_count": 1,
+            "avg_fat_area": 64.0
+        },
+        {
+            "file": "1001738_5.png",
+            "fat_count": 8,
+            "avg_fat_area": 260.9375
+        },
+        {
+            "file": "1001753_75.png",
+            "fat_count": 44,
+            "avg_fat_area": 1042.5454545454545
+        },
+        {
+            "file": "1001763_43.png",
+            "fat_count": 10,
+            "avg_fat_area": 69.9
+        },
+        {
+            "file": "1001770_79.png",
+            "fat_count": 3,
+            "avg_fat_area": 67.83333333333333
+        },
+        {
+            "file": "1001779_82.png",
+            "fat_count": 4,
+            "avg_fat_area": 111.125
+        },
+        {
+            "file": "1001810_86.png",
+            "fat_count": 18,
+            "avg_fat_area": 253.52777777777777
+        },
+        {
+            "file": "1001834_66.png",
+            "fat_count": 12,
+            "avg_fat_area": 120.125
+        },
+        {
+            "file": "1001850_79.png",
+            "fat_count": 6,
+            "avg_fat_area": 3516.9166666666665
+        },
+        {
+            "file": "1001863_9.png",
+            "fat_count": 29,
+            "avg_fat_area": 892.0862068965517
+        },
+        {
+            "file": "1001865_2.png",
+            "fat_count": 29,
+            "avg_fat_area": 389.82758620689657
+        },
+        {
+            "file": "1001876_91.png",
+            "fat_count": 32,
+            "avg_fat_area": 473.0
+        },
+        {
+            "file": "1001878_9.png",
+            "fat_count": 20,
+            "avg_fat_area": 294.625
+        },
+        {
+            "file": "1001923_65.png",
+            "fat_count": 13,
+            "avg_fat_area": 357.61538461538464
+        },
+        {
+            "file": "1001939_83.png",
+            "fat_count": 31,
+            "avg_fat_area": 222.51612903225808
+        },
+        {
+            "file": "1001940_25.png",
+            "fat_count": 5,
+            "avg_fat_area": 79.2
+        },
+        {
+            "file": "1001956_4.png",
+            "fat_count": 5,
+            "avg_fat_area": 140.7
+        },
+        {
+            "file": "1001980_7.png",
+            "fat_count": 17,
+            "avg_fat_area": 441.52941176470586
+        },
+        {
+            "file": "1001982_20.png",
+            "fat_count": 10,
+            "avg_fat_area": 1410.9
+        },
+        {
+            "file": "1001986_66.png",
+            "fat_count": 10,
+            "avg_fat_area": 94.45
+        },
+        {
+            "file": "1001990_45.png",
+            "fat_count": 18,
+            "avg_fat_area": 158.47222222222223
+        },
+        {
+            "file": "1001996_65.png",
+            "fat_count": 5,
+            "avg_fat_area": 109.4
+        },
+        {
+            "file": "1001998_48.png",
+            "fat_count": 19,
+            "avg_fat_area": 1588.0
+        },
+        {
+            "file": "1002013_8.png",
+            "fat_count": 7,
+            "avg_fat_area": 187.28571428571428
+        },
+        {
+            "file": "1002014_84.png",
+            "fat_count": 49,
+            "avg_fat_area": 103.66326530612245
+        },
+        {
+            "file": "1002020_90.png",
+            "fat_count": 41,
+            "avg_fat_area": 421.3414634146341
+        },
+        {
+            "file": "1002032_5.png",
+            "fat_count": 6,
+            "avg_fat_area": 80.75
+        },
+        {
+            "file": "1002036_5.png",
+            "fat_count": 6,
+            "avg_fat_area": 97.83333333333333
+        },
+        {
+            "file": "1002039_87.png",
+            "fat_count": 57,
+            "avg_fat_area": 448.3070175438597
+        },
+        {
+            "file": "1002040_78.png",
+            "fat_count": 22,
+            "avg_fat_area": 615.5909090909091
+        },
+        {
+            "file": "1002048_57.png",
+            "fat_count": 3,
+            "avg_fat_area": 118.0
+        },
+        {
+            "file": "1002049_51.png",
+            "fat_count": 7,
+            "avg_fat_area": 105.35714285714286
+        },
+        {
+            "file": "1002052_11.png",
+            "fat_count": 15,
+            "avg_fat_area": 605.1333333333333
+        },
+        {
+            "file": "1002080_40.png",
+            "fat_count": 11,
+            "avg_fat_area": 176.04545454545453
+        },
+        {
+            "file": "1002095_86.png",
+            "fat_count": 12,
+            "avg_fat_area": 2446.4166666666665
+        },
+        {
+            "file": "1002117_76.png",
+            "fat_count": 10,
+            "avg_fat_area": 2669.75
+        },
+        {
+            "file": "1002123_41.png",
+            "fat_count": 14,
+            "avg_fat_area": 462.07142857142856
+        },
+        {
+            "file": "1002137_44.png",
+            "fat_count": 17,
+            "avg_fat_area": 430.2647058823529
+        },
+        {
+            "file": "1002147_70.png",
+            "fat_count": 9,
+            "avg_fat_area": 6420.222222222223
+        },
+        {
+            "file": "1002156_50.png",
+            "fat_count": 2,
+            "avg_fat_area": 880.0
+        },
+        {
+            "file": "1002158_50.png",
+            "fat_count": 29,
+            "avg_fat_area": 231.82758620689654
+        },
+        {
+            "file": "1002159_38.png",
+            "fat_count": 8,
+            "avg_fat_area": 3243.3125
+        },
+        {
+            "file": "1002162_56.png",
+            "fat_count": 13,
+            "avg_fat_area": 2749.0
+        },
+        {
+            "file": "1002174_12.png",
+            "fat_count": 18,
+            "avg_fat_area": 271.55555555555554
+        },
+        {
+            "file": "1002200_73.png",
+            "fat_count": 1,
+            "avg_fat_area": 50.5
+        },
+        {
+            "file": "1002228_7.png",
+            "fat_count": 26,
+            "avg_fat_area": 920.7115384615385
+        },
+        {
+            "file": "1002242_1.png",
+            "fat_count": 17,
+            "avg_fat_area": 321.5
+        },
+        {
+            "file": "1002242_58.png",
+            "fat_count": 34,
+            "avg_fat_area": 1435.3823529411766
+        },
+        {
+            "file": "1002247_89.png",
+            "fat_count": 40,
+            "avg_fat_area": 758.0875
+        },
+        {
+            "file": "1002250_69.png",
+            "fat_count": 27,
+            "avg_fat_area": 718.6111111111111
+        },
+        {
+            "file": "1002265_95.png",
+            "fat_count": 29,
+            "avg_fat_area": 188.27586206896552
+        },
+        {
+            "file": "1002281_11.png",
+            "fat_count": 11,
+            "avg_fat_area": 6513.545454545455
+        },
+        {
+            "file": "1002281_85.png",
+            "fat_count": 51,
+            "avg_fat_area": 318.11764705882354
+        },
+        {
+            "file": "1002282_60.png",
+            "fat_count": 20,
+            "avg_fat_area": 297.1
+        },
+        {
+            "file": "1002304_30.png",
+            "fat_count": 17,
+            "avg_fat_area": 1202.9705882352941
+        },
+        {
+            "file": "1002312_75.png",
+            "fat_count": 33,
+            "avg_fat_area": 1242.939393939394
+        },
+        {
+            "file": "1002317_66.png",
+            "fat_count": 10,
+            "avg_fat_area": 288.65
+        },
+        {
+            "file": "1002325_45.png",
+            "fat_count": 41,
+            "avg_fat_area": 1303.1097560975609
+        },
+        {
+            "file": "1002339_23.png",
+            "fat_count": 9,
+            "avg_fat_area": 373.8888888888889
+        },
+        {
+            "file": "1002366_55.png",
+            "fat_count": 14,
+            "avg_fat_area": 1282.4642857142858
+        },
+        {
+            "file": "1002367_76.png",
+            "fat_count": 36,
+            "avg_fat_area": 1820.9444444444443
+        },
+        {
+            "file": "1002372_46.png",
+            "fat_count": 65,
+            "avg_fat_area": 161.7076923076923
+        },
+        {
+            "file": "1002384_29.png",
+            "fat_count": 14,
+            "avg_fat_area": 3032.8214285714284
+        },
+        {
+            "file": "1002403_34.png",
+            "fat_count": 12,
+            "avg_fat_area": 227.83333333333334
+        },
+        {
+            "file": "1002437_10.png",
+            "fat_count": 7,
+            "avg_fat_area": 185.85714285714286
+        },
+        {
+            "file": "1002438_4.png",
+            "fat_count": 4,
+            "avg_fat_area": 87.5
+        },
+        {
+            "file": "1002448_78.png",
+            "fat_count": 27,
+            "avg_fat_area": 191.94444444444446
+        },
+        {
+            "file": "1002467_37.png",
+            "fat_count": 19,
+            "avg_fat_area": 253.3421052631579
+        },
+        {
+            "file": "1002500_82.png",
+            "fat_count": 16,
+            "avg_fat_area": 122.71875
+        },
+        {
+            "file": "1002510_66.png",
+            "fat_count": 32,
+            "avg_fat_area": 911.796875
+        },
+        {
+            "file": "1002515_27.png",
+            "fat_count": 33,
+            "avg_fat_area": 1070.1515151515152
+        },
+        {
+            "file": "1002525_88.png",
+            "fat_count": 34,
+            "avg_fat_area": 395.6764705882353
+        },
+        {
+            "file": "1002530_90.png",
+            "fat_count": 40,
+            "avg_fat_area": 684.525
+        },
+        {
+            "file": "1002584_49.png",
+            "fat_count": 3,
+            "avg_fat_area": 2006.8333333333333
+        },
+        {
+            "file": "1002624_71.png",
+            "fat_count": 21,
+            "avg_fat_area": 2149.095238095238
+        },
+        {
+            "file": "1002625_94.png",
+            "fat_count": 4,
+            "avg_fat_area": 1463.875
+        },
+        {
+            "file": "1002644_96.png",
+            "fat_count": 6,
+            "avg_fat_area": 12360.083333333334
+        },
+        {
+            "file": "1002664_72.png",
+            "fat_count": 4,
+            "avg_fat_area": 71.375
+        },
+        {
+            "file": "1002679_53.png",
+            "fat_count": 32,
+            "avg_fat_area": 832.953125
+        },
+        {
+            "file": "1002682_29.png",
+            "fat_count": 37,
+            "avg_fat_area": 265.68918918918916
+        },
+        {
+            "file": "1002706_8.png",
+            "fat_count": 4,
+            "avg_fat_area": 92.25
+        },
+        {
+            "file": "1002708_95.png",
+            "fat_count": 27,
+            "avg_fat_area": 1111.6851851851852
+        },
+        {
+            "file": "1002709_16.png",
+            "fat_count": 11,
+            "avg_fat_area": 1060.7727272727273
+        },
+        {
+            "file": "1002730_9.png",
+            "fat_count": 6,
+            "avg_fat_area": 214.08333333333334
+        },
+        {
+            "file": "1002746_93.png",
+            "fat_count": 11,
+            "avg_fat_area": 326.8636363636364
+        },
+        {
+            "file": "1002770_46.png",
+            "fat_count": 40,
+            "avg_fat_area": 1068.0375
+        },
+        {
+            "file": "1002787_34.png",
+            "fat_count": 8,
+            "avg_fat_area": 361.125
+        },
+        {
+            "file": "1002842_64.png",
+            "fat_count": 25,
+            "avg_fat_area": 1136.68
+        },
+        {
+            "file": "1002859_14.png",
+            "fat_count": 18,
+            "avg_fat_area": 162.36111111111111
+        },
+        {
+            "file": "1002865_94.png",
+            "fat_count": 13,
+            "avg_fat_area": 1482.4615384615386
+        },
+        {
+            "file": "1002895_36.png",
+            "fat_count": 22,
+            "avg_fat_area": 118.27272727272727
+        },
+        {
+            "file": "1002909_8.png",
+            "fat_count": 4,
+            "avg_fat_area": 12950.375
+        },
+        {
+            "file": "1002934_42.png",
+            "fat_count": 13,
+            "avg_fat_area": 142.3846153846154
+        },
+        {
+            "file": "1002940_83.png",
+            "fat_count": 6,
+            "avg_fat_area": 13097.666666666666
+        },
+        {
+            "file": "1002955_96.png",
+            "fat_count": 8,
+            "avg_fat_area": 106.3125
+        },
+        {
+            "file": "1002973_70.png",
+            "fat_count": 8,
+            "avg_fat_area": 164.9375
+        },
+        {
+            "file": "1002982_16.png",
+            "fat_count": 43,
+            "avg_fat_area": 390.24418604651163
+        },
+        {
+            "file": "1002994_57.png",
+            "fat_count": 4,
+            "avg_fat_area": 145.75
+        },
+        {
+            "file": "1002994_73.png",
+            "fat_count": 17,
+            "avg_fat_area": 126.32352941176471
+        },
+        {
+            "file": "1002998_44.png",
+            "fat_count": 4,
+            "avg_fat_area": 62.125
+        },
+        {
+            "file": "1003001_43.png",
+            "fat_count": 1,
+            "avg_fat_area": 106.0
+        },
+        {
+            "file": "1003001_82.png",
+            "fat_count": 4,
+            "avg_fat_area": 101.625
+        },
+        {
+            "file": "1003021_63.png",
+            "fat_count": 19,
+            "avg_fat_area": 220.76315789473685
+        },
+        {
+            "file": "1003042_39.png",
+            "fat_count": 16,
+            "avg_fat_area": 3407.09375
+        },
+        {
+            "file": "1003044_12.png",
+            "fat_count": 27,
+            "avg_fat_area": 1483.3333333333333
+        },
+        {
+            "file": "1003046_56.png",
+            "fat_count": 6,
+            "avg_fat_area": 65.91666666666667
+        },
+        {
+            "file": "1003046_67.png",
+            "fat_count": 35,
+            "avg_fat_area": 303.4428571428571
+        },
+        {
+            "file": "1003089_90.png",
+            "fat_count": 28,
+            "avg_fat_area": 1426.6785714285713
+        },
+        {
+            "file": "1003094_65.png",
+            "fat_count": 64,
+            "avg_fat_area": 1142.5703125
+        },
+        {
+            "file": "1003117_62.png",
+            "fat_count": 21,
+            "avg_fat_area": 250.45238095238096
+        },
+        {
+            "file": "1003121_8.png",
+            "fat_count": 45,
+            "avg_fat_area": 399.94444444444446
+        },
+        {
+            "file": "1003131_36.png",
+            "fat_count": 25,
+            "avg_fat_area": 276.84
+        },
+        {
+            "file": "1003136_48.png",
+            "fat_count": 44,
+            "avg_fat_area": 1071.1818181818182
+        },
+        {
+            "file": "1003137_44.png",
+            "fat_count": 53,
+            "avg_fat_area": 242.23584905660377
+        },
+        {
+            "file": "1003142_17.png",
+            "fat_count": 27,
+            "avg_fat_area": 378.9074074074074
+        },
+        {
+            "file": "1003160_70.png",
+            "fat_count": 37,
+            "avg_fat_area": 371.56756756756755
+        },
+        {
+            "file": "1003179_89.png",
+            "fat_count": 4,
+            "avg_fat_area": 77.5
+        },
+        {
+            "file": "1003180_19.png",
+            "fat_count": 34,
+            "avg_fat_area": 593.8823529411765
+        },
+        {
+            "file": "1003181_69.png",
+            "fat_count": 26,
+            "avg_fat_area": 260.0
+        },
+        {
+            "file": "1003216_44.png",
+            "fat_count": 3,
+            "avg_fat_area": 443.3333333333333
+        },
+        {
+            "file": "1003233_8.png",
+            "fat_count": 28,
+            "avg_fat_area": 177.25
+        },
+        {
+            "file": "1003251_30.png",
+            "fat_count": 8,
+            "avg_fat_area": 316.5625
+        },
+        {
+            "file": "1003262_48.png",
+            "fat_count": 43,
+            "avg_fat_area": 303.83720930232556
+        },
+        {
+            "file": "1003289_79.png",
+            "fat_count": 14,
+            "avg_fat_area": 396.32142857142856
+        },
+        {
+            "file": "1003298_91.png",
+            "fat_count": 17,
+            "avg_fat_area": 154.73529411764707
+        },
+        {
+            "file": "1003299_6.png",
+            "fat_count": 12,
+            "avg_fat_area": 555.125
+        },
+        {
+            "file": "1003302_84.png",
+            "fat_count": 9,
+            "avg_fat_area": 1100.0555555555557
+        },
+        {
+            "file": "1003305_80.png",
+            "fat_count": 29,
+            "avg_fat_area": 815.9655172413793
+        },
+        {
+            "file": "1003396_60.png",
+            "fat_count": 56,
+            "avg_fat_area": 615.3928571428571
+        },
+        {
+            "file": "1003404_32.png",
+            "fat_count": 41,
+            "avg_fat_area": 282.8414634146341
+        },
+        {
+            "file": "1003416_64.png",
+            "fat_count": 49,
+            "avg_fat_area": 177.89795918367346
+        },
+        {
+            "file": "1003443_41.png",
+            "fat_count": 12,
+            "avg_fat_area": 209.16666666666666
+        },
+        {
+            "file": "1003487_40.png",
+            "fat_count": 9,
+            "avg_fat_area": 112.11111111111111
+        },
+        {
+            "file": "1003489_71.png",
+            "fat_count": 9,
+            "avg_fat_area": 775.1666666666666
+        },
+        {
+            "file": "1003495_82.png",
+            "fat_count": 56,
+            "avg_fat_area": 330.25892857142856
+        },
+        {
+            "file": "1003499_57.png",
+            "fat_count": 40,
+            "avg_fat_area": 336.3
+        },
+        {
+            "file": "1003500_70.png",
+            "fat_count": 8,
+            "avg_fat_area": 241.375
+        },
+        {
+            "file": "1003503_3.png",
+            "fat_count": 6,
+            "avg_fat_area": 87.0
+        },
+        {
+            "file": "1003505_19.png",
+            "fat_count": 10,
+            "avg_fat_area": 93.4
+        },
+        {
+            "file": "1003526_83.png",
+            "fat_count": 4,
+            "avg_fat_area": 3490.0
+        },
+        {
+            "file": "1003531_92.png",
+            "fat_count": 13,
+            "avg_fat_area": 4534.346153846154
+        },
+        {
+            "file": "1003537_95.png",
+            "fat_count": 15,
+            "avg_fat_area": 256.26666666666665
+        },
+        {
+            "file": "1003554_59.png",
+            "fat_count": 3,
+            "avg_fat_area": 124.16666666666667
+        },
+        {
+            "file": "1003560_80.png",
+            "fat_count": 7,
+            "avg_fat_area": 1070.5714285714287
+        },
+        {
+            "file": "1003563_31.png",
+            "fat_count": 9,
+            "avg_fat_area": 5853.055555555556
+        },
+        {
+            "file": "1003569_52.png",
+            "fat_count": 29,
+            "avg_fat_area": 247.06896551724137
+        },
+        {
+            "file": "1003597_35.png",
+            "fat_count": 61,
+            "avg_fat_area": 710.1311475409836
+        },
+        {
+            "file": "1003611_38.png",
+            "fat_count": 2,
+            "avg_fat_area": 326.5
+        },
+        {
+            "file": "1003619_87.png",
+            "fat_count": 14,
+            "avg_fat_area": 1041.142857142857
+        },
+        {
+            "file": "1003704_38.png",
+            "fat_count": 9,
+            "avg_fat_area": 97.55555555555556
+        },
+        {
+            "file": "1003713_6.png",
+            "fat_count": 24,
+            "avg_fat_area": 938.8125
+        },
+        {
+            "file": "1003723_91.png",
+            "fat_count": 24,
+            "avg_fat_area": 595.1666666666666
+        },
+        {
+            "file": "1003738_10.png",
+            "fat_count": 5,
+            "avg_fat_area": 3946.4
+        },
+        {
+            "file": "1003764_4.png",
+            "fat_count": 6,
+            "avg_fat_area": 564.4166666666666
+        },
+        {
+            "file": "1003770_21.png",
+            "fat_count": 7,
+            "avg_fat_area": 8241.57142857143
+        },
+        {
+            "file": "1003809_2.png",
+            "fat_count": 8,
+            "avg_fat_area": 117.4375
+        },
+        {
+            "file": "1003841_68.png",
+            "fat_count": 28,
+            "avg_fat_area": 433.9642857142857
+        },
+        {
+            "file": "1003845_78.png",
+            "fat_count": 66,
+            "avg_fat_area": 612.3257575757576
+        },
+        {
+            "file": "1003866_51.png",
+            "fat_count": 58,
+            "avg_fat_area": 116.12068965517241
+        },
+        {
+            "file": "1003876_3.png",
+            "fat_count": 8,
+            "avg_fat_area": 89.9375
+        },
+        {
+            "file": "1003896_58.png",
+            "fat_count": 35,
+            "avg_fat_area": 1086.1
+        },
+        {
+            "file": "1003936_41.png",
+            "fat_count": 16,
+            "avg_fat_area": 277.25
+        },
+        {
+            "file": "1003977_83.png",
+            "fat_count": 9,
+            "avg_fat_area": 177.33333333333334
+        },
+        {
+            "file": "1004004_42.png",
+            "fat_count": 16,
+            "avg_fat_area": 1492.40625
+        },
+        {
+            "file": "1004026_79.png",
+            "fat_count": 23,
+            "avg_fat_area": 155.65217391304347
+        },
+        {
+            "file": "1004051_57.png",
+            "fat_count": 95,
+            "avg_fat_area": 147.75263157894736
+        },
+        {
+            "file": "1004055_80.png",
+            "fat_count": 12,
+            "avg_fat_area": 5503.583333333333
+        },
+        {
+            "file": "1004056_98.png",
+            "fat_count": 6,
+            "avg_fat_area": 194.33333333333334
+        },
+        {
+            "file": "1004062_75.png",
+            "fat_count": 29,
+            "avg_fat_area": 373.98275862068965
+        },
+        {
+            "file": "1004084_7.png",
+            "fat_count": 4,
+            "avg_fat_area": 655.125
+        },
+        {
+            "file": "1004092_87.png",
+            "fat_count": 10,
+            "avg_fat_area": 83.95
+        },
+        {
+            "file": "1004122_72.png",
+            "fat_count": 33,
+            "avg_fat_area": 1000.7121212121212
+        },
+        {
+            "file": "1004130_53.png",
+            "fat_count": 4,
+            "avg_fat_area": 114.0
+        },
+        {
+            "file": "1004134_67.png",
+            "fat_count": 22,
+            "avg_fat_area": 474.0
+        },
+        {
+            "file": "1004135_49.png",
+            "fat_count": 16,
+            "avg_fat_area": 324.40625
+        },
+        {
+            "file": "1004168_34.png",
+            "fat_count": 26,
+            "avg_fat_area": 1198.4807692307693
+        },
+        {
+            "file": "1004172_38.png",
+            "fat_count": 6,
+            "avg_fat_area": 7049.833333333333
+        },
+        {
+            "file": "1004174_10.png",
+            "fat_count": 34,
+            "avg_fat_area": 579.1764705882352
+        },
+        {
+            "file": "1004190_59.png",
+            "fat_count": 7,
+            "avg_fat_area": 394.42857142857144
+        },
+        {
+            "file": "1004204_16.png",
+            "fat_count": 8,
+            "avg_fat_area": 799.125
+        },
+        {
+            "file": "1004213_82.png",
+            "fat_count": 6,
+            "avg_fat_area": 355.0
+        },
+        {
+            "file": "1004227_63.png",
+            "fat_count": 32,
+            "avg_fat_area": 2112.28125
+        },
+        {
+            "file": "1004260_64.png",
+            "fat_count": 15,
+            "avg_fat_area": 664.3333333333334
+        },
+        {
+            "file": "1004269_41.png",
+            "fat_count": 29,
+            "avg_fat_area": 365.01724137931035
+        },
+        {
+            "file": "1004273_59.png",
+            "fat_count": 1,
+            "avg_fat_area": 73.5
+        },
+        {
+            "file": "1004302_88.png",
+            "fat_count": 3,
+            "avg_fat_area": 24312.166666666668
+        },
+        {
+            "file": "1004307_78.png",
+            "fat_count": 17,
+            "avg_fat_area": 725.6764705882352
+        },
+        {
+            "file": "1004327_75.png",
+            "fat_count": 4,
+            "avg_fat_area": 17139.75
+        },
+        {
+            "file": "1004338_1.png",
+            "fat_count": 15,
+            "avg_fat_area": 619.0333333333333
+        },
+        {
+            "file": "1004343_26.png",
+            "fat_count": 61,
+            "avg_fat_area": 118.27868852459017
+        },
+        {
+            "file": "1004356_97.png",
+            "fat_count": 2,
+            "avg_fat_area": 66.75
+        },
+        {
+            "file": "1004359_43.png",
+            "fat_count": 3,
+            "avg_fat_area": 100.33333333333333
+        },
+        {
+            "file": "1004360_8.png",
+            "fat_count": 1,
+            "avg_fat_area": 401.0
+        },
+        {
+            "file": "1004362_47.png",
+            "fat_count": 9,
+            "avg_fat_area": 104.11111111111111
+        },
+        {
+            "file": "1004366_66.png",
+            "fat_count": 12,
+            "avg_fat_area": 4408.916666666667
+        },
+        {
+            "file": "1004386_40.png",
+            "fat_count": 34,
+            "avg_fat_area": 458.3235294117647
+        },
+        {
+            "file": "1004390_76.png",
+            "fat_count": 23,
+            "avg_fat_area": 379.2608695652174
+        },
+        {
+            "file": "1004424_50.png",
+            "fat_count": 2,
+            "avg_fat_area": 66.75
+        },
+        {
+            "file": "1004453_30.png",
+            "fat_count": 19,
+            "avg_fat_area": 124.71052631578948
+        },
+        {
+            "file": "1004455_28.png",
+            "fat_count": 5,
+            "avg_fat_area": 1406.3
+        },
+        {
+            "file": "1004462_79.png",
+            "fat_count": 19,
+            "avg_fat_area": 240.21052631578948
+        },
+        {
+            "file": "1004489_93.png",
+            "fat_count": 21,
+            "avg_fat_area": 645.8809523809524
+        },
+        {
+            "file": "1004492_6.png",
+            "fat_count": 14,
+            "avg_fat_area": 1829.0
+        },
+        {
+            "file": "1004522_1.png",
+            "fat_count": 49,
+            "avg_fat_area": 224.05102040816325
+        },
+        {
+            "file": "1004522_29.png",
+            "fat_count": 38,
+            "avg_fat_area": 968.5394736842105
+        },
+        {
+            "file": "1004529_3.png",
+            "fat_count": 45,
+            "avg_fat_area": 1130.7222222222222
+        },
+        {
+            "file": "1004533_66.png",
+            "fat_count": 19,
+            "avg_fat_area": 1380.1315789473683
+        },
+        {
+            "file": "1004545_51.png",
+            "fat_count": 27,
+            "avg_fat_area": 1106.2037037037037
+        },
+        {
+            "file": "1004546_22.png",
+            "fat_count": 5,
+            "avg_fat_area": 104.4
+        },
+        {
+            "file": "1004550_6.png",
+            "fat_count": 7,
+            "avg_fat_area": 93.07142857142857
+        },
+        {
+            "file": "1004577_22.png",
+            "fat_count": 3,
+            "avg_fat_area": 379.1666666666667
+        },
+        {
+            "file": "1004586_67.png",
+            "fat_count": 35,
+            "avg_fat_area": 874.1285714285714
+        },
+        {
+            "file": "1004590_50.png",
+            "fat_count": 6,
+            "avg_fat_area": 2761.5
+        },
+        {
+            "file": "1004599_55.png",
+            "fat_count": 5,
+            "avg_fat_area": 87.7
+        },
+        {
+            "file": "1004614_92.png",
+            "fat_count": 35,
+            "avg_fat_area": 538.4142857142857
+        },
+        {
+            "file": "1004616_63.png",
+            "fat_count": 5,
+            "avg_fat_area": 2586.6
+        },
+        {
+            "file": "1004621_40.png",
+            "fat_count": 19,
+            "avg_fat_area": 123.94736842105263
+        },
+        {
+            "file": "1004637_2.png",
+            "fat_count": 20,
+            "avg_fat_area": 812.625
+        },
+        {
+            "file": "1004647_94.png",
+            "fat_count": 2,
+            "avg_fat_area": 751.0
+        }
+    ],
+    "invalid": [],
+    "low_tissue": [
+        "1001031_60.png",
+        "1001090_7.png",
+        "1001127_64.png",
+        "1001130_43.png",
+        "1001209_89.png",
+        "1001254_38.png",
+        "1001293_76.png",
+        "1001343_53.png",
+        "1001363_37.png",
+        "1001421_27.png",
+        "1001455_96.png",
+        "1001496_1.png",
+        "1001508_65.png",
+        "1001523_52.png",
+        "1001534_64.png",
+        "1001572_79.png",
+        "1001590_77.png",
+        "1001592_15.png",
+        "1001864_4.png",
+        "1002050_65.png",
+        "1002132_23.png",
+        "1002173_6.png",
+        "1002176_4.png",
+        "1002283_53.png",
+        "1002314_27.png",
+        "1002352_67.png",
+        "1002371_62.png",
+        "1002471_68.png",
+        "1002532_98.png",
+        "1002533_88.png",
+        "1002564_4.png",
+        "1002596_89.png",
+        "1002690_47.png",
+        "1002793_25.png",
+        "1002812_2.png",
+        "1002964_40.png",
+        "1002981_17.png",
+        "1002997_93.png",
+        "1003016_76.png",
+        "1003199_39.png",
+        "1003200_19.png",
+        "1003219_42.png",
+        "1003267_38.png",
+        "1003271_65.png",
+        "1003359_19.png",
+        "1003396_4.png",
+        "1003445_6.png",
+        "1003527_28.png",
+        "1003533_92.png",
+        "1003600_67.png",
+        "1003717_97.png",
+        "1003720_91.png",
+        "1003757_6.png",
+        "1003819_38.png",
+        "1003841_96.png",
+        "1003912_50.png",
+        "1003949_51.png",
+        "1004222_33.png",
+        "1004289_35.png",
+        "1004298_76.png",
+        "1004340_65.png",
+        "1004372_76.png",
+        "1004408_47.png",
+        "1004441_93.png",
+        "1004539_83.png",
+        "1004545_67.png",
+        "1004553_27.png",
+        "1004577_40.png",
+        "1004609_16.png"
+    ],
+    "no_fat_detected": [
+        "1001195_32.png",
+        "1002200_34.png",
+        "1002539_76.png",
+        "1002646_79.png",
+        "1002802_67.png",
+        "1002902_67.png",
+        "1003145_33.png",
+        "1003566_78.png"
+    ],
+    "duplicates": []
+}
