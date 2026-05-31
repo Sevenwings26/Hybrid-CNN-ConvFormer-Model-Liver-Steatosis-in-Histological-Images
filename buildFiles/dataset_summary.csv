@@ -1,0 +1,18 @@
+=== OVERALL SUMMARY ===
+Category,Count,Percentage
+valid,4093,99.98%
+invalid,0,0.0%
+low_tissue,0,0.0%
+no_fat_detected,0,0.0%
+duplicates,1,0.02%
+TOTAL,4094,100%
+
+=== GRADE DISTRIBUTION ===
+grade,valid,low_tissue,no_fat_detected,invalid,duplicates,grade_total
+Grade_0,1174,0,0,0,1,1175
+Grade_1,1378,0,0,0,0,1378
+Grade_2,895,0,0,0,0,895
+Grade_3,646,0,0,0,0,646
+Grade_ignore,0,0,0,0,0,0
+
+Grand Total (cross-check),4094

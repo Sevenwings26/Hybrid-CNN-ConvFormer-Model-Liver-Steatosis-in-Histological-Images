@@ -1,0 +1,12 @@
+=== MODEL SUMMARY ===
+Device: cpu
+
+  CNN Backbone        : 18,008,136 params
+  ConvFormer Branch   : 3,463,168 params
+  Attention Fusion    : 131,842 params
+  Classification Head : 33,412 params
+  TOTAL               : 21,636,558 params
+
+  Input  shape : (1, 3, 256, 256)
+  Output shape : (1, 4)
+  Fusion weights (sample): CNN=0.491, ConvFormer=0.509

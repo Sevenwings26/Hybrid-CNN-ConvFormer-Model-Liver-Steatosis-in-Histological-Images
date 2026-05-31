@@ -1,0 +1,7 @@
+Grade,Clinical Meaning,Train,Val,Test,Total
+Grade_0,Normal (<5% fat),880,117,177,1174
+Grade_1,Mild (5-33% fat),1033,137,208,1378
+Grade_2,Moderate (34-66% fat),671,89,135,895
+Grade_3,Severe (>66% fat),484,64,98,646
+TOTAL,,3068,407,618,4093
+PERCENTAGE,,75.0%,9.9%,15.1%,100%

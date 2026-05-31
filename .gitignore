@@ -2,5 +2,14 @@
 .venv/
 
 HEPASS_algorithm_dataset/
-
+steatosis/
+steatosis_images/
+steatosis_extracted/
+steatosis_normalized/
+steatosis_augmented/
+steatosis_split/
 /dataset_validation_report.json
+
+utilities/
+
+

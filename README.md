@@ -4,7 +4,16 @@
 This project develops a deep learning framework that combines Convolutional Neural Networks (CNNs) with ConvFormer architectures to improve accuracy in detecting liver steatosis from histological images. The approach leverages both local feature extraction and transformer-based global context to enhance medical image analysis.
 
 ## Data Source
-- HEPASS algorithm dataset - [Mendeley Dataset](https://data.mendeley.com/datasets/4mcc9rg4k5/1)
+<!-- - HEPASS algorithm dataset - [Mendeley Dataset](https://data.mendeley.com/datasets/4mcc9rg4k5/1) -->
+- Fabian Heinemann on OSF - [OSF](https://osf.io/p48rd/)
+
+Steps: 
+Fetch Histogical (Steatosis) image --> Data validation (classes) --> Select reference --> stain normalization
+
+dir /s /b "C:\Users\wings\sevenwingsInc\01_clients\26-03_convFormer_ML+CNN\convFormer-model\steatosis_extracted\steatosis\val\*" | find /c /v ""
+Output = 745
+
+
 
 ## Process
 - Downloaded dataset from Mendeley.

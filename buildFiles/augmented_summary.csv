@@ -1,0 +1,6 @@
+Grade,Clinical Meaning,Train (orig+aug),Val,Test,Total
+Grade_0,Normal (<5% fat),4400,117,177,4694
+Grade_1,Mild (5-33% fat),5165,137,208,5510
+Grade_2,Moderate (34-66% fat),3355,89,135,3579
+Grade_3,Severe (>66% fat),2420,64,98,2582
+TOTAL,,15340,407,618,16365

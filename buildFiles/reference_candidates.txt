@@ -1,0 +1,63 @@
+Macenko Reference Candidate Ranking
+================================================================================
+
+Rank       : 1
+Score      : 47.47
+Tissue     : 0.632
+Fat Count  : 27.0
+Path       : C:\Users\wings\sevenwingsInc\01_clients\26-03_convFormer_ML+CNN\convFormer-model\steatosis_extracted\steatosis\training\1\208_0_9_56.png
+--------------------------------------------------------------------------------
+Rank       : 2
+Score      : 46.67
+Tissue     : 0.815
+Fat Count  : 35.0
+Path       : C:\Users\wings\sevenwingsInc\01_clients\26-03_convFormer_ML+CNN\convFormer-model\steatosis_extracted\steatosis\training\1\403_1_14_21.png
+--------------------------------------------------------------------------------
+Rank       : 3
+Score      : 46.67
+Tissue     : 0.731
+Fat Count  : 25.0
+Path       : C:\Users\wings\sevenwingsInc\01_clients\26-03_convFormer_ML+CNN\convFormer-model\steatosis_extracted\steatosis\training\1\208_2_5_32.png
+--------------------------------------------------------------------------------
+Rank       : 4
+Score      : 46.64
+Tissue     : 0.747
+Fat Count  : 22.0
+Path       : C:\Users\wings\sevenwingsInc\01_clients\26-03_convFormer_ML+CNN\convFormer-model\steatosis_extracted\steatosis\training\1\208_3_5_35.png
+--------------------------------------------------------------------------------
+Rank       : 5
+Score      : 46.42
+Tissue     : 0.649
+Fat Count  : 27.0
+Path       : C:\Users\wings\sevenwingsInc\01_clients\26-03_convFormer_ML+CNN\convFormer-model\steatosis_extracted\steatosis\training\1\203_8_6_36.png
+--------------------------------------------------------------------------------
+Rank       : 6
+Score      : 46.30
+Tissue     : 0.723
+Fat Count  : 27.0
+Path       : C:\Users\wings\sevenwingsInc\01_clients\26-03_convFormer_ML+CNN\convFormer-model\steatosis_extracted\steatosis\training\1\208_4_4_16.png
+--------------------------------------------------------------------------------
+Rank       : 7
+Score      : 46.06
+Tissue     : 0.784
+Fat Count  : 35.0
+Path       : C:\Users\wings\sevenwingsInc\01_clients\26-03_convFormer_ML+CNN\convFormer-model\steatosis_extracted\steatosis\training\1\403_1_10_7.png
+--------------------------------------------------------------------------------
+Rank       : 8
+Score      : 45.97
+Tissue     : 0.668
+Fat Count  : 27.0
+Path       : C:\Users\wings\sevenwingsInc\01_clients\26-03_convFormer_ML+CNN\convFormer-model\steatosis_extracted\steatosis\training\1\208_5_3_26.png
+--------------------------------------------------------------------------------
+Rank       : 9
+Score      : 45.79
+Tissue     : 0.666
+Fat Count  : 24.0
+Path       : C:\Users\wings\sevenwingsInc\01_clients\26-03_convFormer_ML+CNN\convFormer-model\steatosis_extracted\steatosis\training\1\208_5_5_14.png
+--------------------------------------------------------------------------------
+Rank       : 10
+Score      : 45.67
+Tissue     : 0.731
+Fat Count  : 23.0
+Path       : C:\Users\wings\sevenwingsInc\01_clients\26-03_convFormer_ML+CNN\convFormer-model\steatosis_extracted\steatosis\training\1\208_3_6_28.png
+--------------------------------------------------------------------------------
