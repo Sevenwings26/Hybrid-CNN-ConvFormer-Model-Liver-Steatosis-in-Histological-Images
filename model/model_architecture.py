@@ -48,11 +48,11 @@ class CNNBackbone(nn.Module):
             models.EfficientNet_B4_Weights.IMAGENET1K_V1
             if pretrained else None
         )
-        backbone       = models.efficientnet_b4(weights=weights)
+        backbone = models.efficientnet_b4(weights=weights)
 
         # Remove final classifier — keep feature extractor only
-        self.features  = backbone.features
-        self.pool      = nn.AdaptiveAvgPool2d(1)
+        self.features = backbone.features
+        self.pool = nn.AdaptiveAvgPool2d(1)
 
         # Project to shared embedding dimension
         self.projector = nn.Sequential(

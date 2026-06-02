@@ -6,6 +6,7 @@ import torch
 import torch.nn as nn
 import numpy as np
 from torch.utils.data import DataLoader, Dataset
+import torch.nn.functional as F
 from torchvision import transforms
 from PIL import Image
 from tqdm import tqdm
@@ -20,7 +21,7 @@ from model_architecture import HybridCNNConvFormer
 # ============================================================
 # CONFIGURATION  (aligned with §3.7)
 # ============================================================
-AUGMENTED_MANIFEST = "augmented_manifest.csv"
+AUGMENTED_MANIFEST = "buildFiles/augmented_manifest.csv"
 CHECKPOINT_DIR     = "checkpoints"
 LOG_CSV            = "training_log.csv"
 BEST_MODEL_PATH    = "checkpoints/best_model.pth"
@@ -149,7 +150,7 @@ def compute_class_weights(manifest_csv):
     """
     Computes inverse-frequency class weights from
     training set to address grade imbalance.
-    Passed to Focal Loss as alpha weights.
+    Passed to Focal Loss (loss function) as alpha weights.
     """
     counts = {0: 0, 1: 0, 2: 0, 3: 0}
     with open(manifest_csv, "r") as f:
@@ -202,8 +203,6 @@ class FocalLoss(nn.Module):
         return fl.mean()
 
 
-# Need F import
-import torch.nn.functional as F
 
 
 # ============================================================
